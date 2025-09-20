@@ -1,7 +1,11 @@
 # Seminar 
 
 ## Requirements
-
+- Principles
+- Actions
+- Mapping
+- Flows
+- Demo
 
 ## Topics 
 
