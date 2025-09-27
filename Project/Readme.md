@@ -76,6 +76,6 @@ Your design must demonstrate an understanding and application of key design prin
 📌 **Submission format**:
 
 * Report (PDF) with diagrams, screenshots, and explanations.
-* Presentation slides for class discussion (10–15 minutes).
+* Presentation slides (pptx - 35+) for class discussion (30–45 minutes).
 
 📌 **Deadline**: W13
