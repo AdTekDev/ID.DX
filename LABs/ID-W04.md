@@ -24,7 +24,7 @@ Next, ask two other people the same set of questions. Now analyze your answers.
 
 ## Ex04.02  
 
-The aim of this in-depth activity is to repeat Activity 2 for  for a smartphone app like Apple Pay or Google Pay or Zalo Pay.  
+The aim of this in-depth activity is to repeat Activity Ex04.01 for  for a smartphone app like Apple Pay or Google Pay or Zalo Pay.  
 
 First, elicit your own mental model. Write down how you think contactless smartphone app payment (see Figure 4.11) work—where customers place their smartphone app like Apple Pay or Google Pay or Zalo Pay over a card reader. 
 Then answer the following questions:  
