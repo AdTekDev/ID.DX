@@ -2,11 +2,12 @@
 
 ---
 
-## ID.DX W05.01 **Conceptualizing Interaction for a Service Robot**
+# ID.DX W05.01 **Conceptualizing Interaction for a Service Robot**
 
 Restaurant Robot / Robot Waiter / ...
 
-![image.png](attachment:image.png)
+<img width="2000" height="1333" alt="image" src="https://github.com/user-attachments/assets/f19ea491-e476-4385-9222-3d18b1e17911" />
+
 
 **Learning Objectives:**
 *   Understand and apply the principles of interaction conceptualization.
