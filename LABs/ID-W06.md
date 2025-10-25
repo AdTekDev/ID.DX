@@ -4,8 +4,9 @@
 ## W06.01  
 
 Scenario: Withdrawing Cash from an ATM
-Imagine a user performing the common task of withdrawing money from an Automated Teller Machine (ATM) at a local bank branch. The user knows their PIN and the desired withdrawal amount.  
-Part A: GOMS (Goals, Operators, Methods, Selection Rules) Analysis
+Imagine a user performing the common task of withdrawing money from an Automated Teller Machine (ATM) at a local bank branch. The user knows their PIN and the desired withdrawal amount.    
+  
+  
 The GOMS (Goals, Operators, Methods, Selection Rules) model focuses on the processes required to achieve a Goal using a specific device. This model is typically applied to tasks involving well-learned sequences and is useful for predicting performance time.  
 Task: Analyze the process of successfully withdrawing $100 from an ATM.
 1. Define the Goal: State the top-level goal the user is trying to achieve.
