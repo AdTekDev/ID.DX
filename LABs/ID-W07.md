@@ -3,20 +3,22 @@
 
 
 
-I.	Activity 1  
+I.	Activity 1    
 1)	Produce a storyboard that depicts how to withdraw money from the ATM.
 
    
-II.	Activity 2  
+II.	Activity 2    
 3)	Produce a User Story Mapping for using a ATM (watch this video for help https://www.youtube.com/watch?v=k_4SchJgAI4&feature=emb_logo)
 
    
-III.	Activity 3  
+III.	Activity 3    
 4)	Consider the new navigation app for a large shopping center. Identify tasks associated with this product that would best be supported by each of the interaction types instructing, conversing, manipulating, exploring, and responding.  
 
 
-IV.	Activity 4
-5)	Look at the storyboard in Figure 12.4. This storyboard shows Christina exploring the Acropolis in search of information about the pottery trade. In the second scene in the top row, Christina “adjusts the preferences to find information about the pottery trade in Ancient Greece.” Many interaction icons have become standardized, but there isn’t a standard one for “pottery trade.” Suggest two alternative icons to represent this and draw them on separateout the following activities to discover requirements for this product:
+IV.	Activity 4   
+5)	Look at the storyboard in Figure 12.4. This storyboard shows Christina exploring the Acropolis in search of information about the pottery trade. In the second scene in the top row, Christina “adjusts the preferences to find information about the pottery trade in Ancient Greece.” Many interaction icons have become standardized, but there isn’t a standard one for “pottery trade.” Suggest two alternative icons to represent this and draw them on separateout the following activities to discover requirements for this product:  
+
+<img width="787" height="569" alt="image" src="https://github.com/user-attachments/assets/899a34ad-b604-48cd-86e8-44591cf67607" />
 
  
 V.	Activity 5  
