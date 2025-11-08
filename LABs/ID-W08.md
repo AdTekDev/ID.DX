@@ -1,5 +1,5 @@
 
-# ID.DX W07 - Data Gathering / Interfaces
+# ID.DX W08 - Data Gathering / Interfaces
 
 1.	Choose an app or a website that you think is badly designed  
 2.	Sketch the flow/sequence of screen/functionality using the below examples  
